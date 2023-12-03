@@ -1,5 +1,5 @@
 # Harmontown Transcripts
-These are transcripts for every Harmontown episode, transcribed using OpenAI Whisper.
+[Transcripts](https://koratkar.github.io/harmontown/website/) for every available Harmontown episode, transcribed using OpenAI Whisper.
 
 todo:
 - [ ] replace rss\_parser library
