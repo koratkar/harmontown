@@ -7,7 +7,7 @@ todo:
 - [ ] create a version of this that can run on any rss feed 
   - [ ] deal with weird urls used for marketing (how?, maybe keep only string after the last "https://")
 - [ ] script that can transcribe any episode 
-  - SEMANTIC SEARCH OR BUST
+  - semantic search
   - [ ] shell script (or something?) that runs script that can transcribe any episode such that you can stop it and start it whenever 
   - [ ] make this the main file to run, that does everything in "lexicap for any podcast" version
     - [ ] requirements.txt
